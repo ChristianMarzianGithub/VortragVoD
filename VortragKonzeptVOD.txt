@@ -1,0 +1,18 @@
+Vortrag Konzept
+Einleitung
+	- Problemstellung, Motivation, 
+	- verwendete Technologien
+Programmierung
+1. Vorbereitung(Implementierung aller Dateien/ Server)
+=> 5 - 10 min. Implementierung der Zuschauer an ihrem eigenen Rechner
+2. Startseite mit Suchleiste
+=> 5 - 10 min. Implementierung der Zuschauer an ihrem eigenen Rechner
+3. Ergebnisseite der Suche
+=> 5 - 10 min. Implementierung der Zuschauer an ihrem eigenen Rechner
+4. VideoSeite
+=> 5 - 10 min. Implementierung der Zuschauer an ihrem eigenen Rechner
+
+Zusammenfassung der einzelnen Schritte, Blick in die weiteren Möglichkeiten dieser Technik, Erweiterungsmöglichkeiten, Implementierung in der Praxis
+
+
+
