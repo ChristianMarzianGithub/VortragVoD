@@ -1,4 +1,7 @@
 Vortrag Konzept
+
+Inhalt
+
 Einleitung
 	- Problemstellung, Motivation, 
 	- verwendete Technologien
@@ -15,6 +18,9 @@ Programmierung
 4. VideoSeite
 => 5 - 10 min. Implementierung der Zuschauer an ihrem eigenen Rechner
 
+Fazit
 Zusammenfassung der einzelnen Schritte, Blick in die weiteren Möglichkeiten dieser Technik, Erweiterungsmöglichkeiten, 
-Implementierung in der Praxis
+Implementierung in der Praxis, Quellen zur Weiterbildung
 
+=> Gesamtdauer: 60 bis 90 Minuten
+Vortragszeitpunkt: Montag - Freitag ab 18:30 ; Samstag den ganzen Tag; Sontag nicht
